@@ -7,6 +7,9 @@ namespace eMovieTicket.Data
         Comedy,
         Drama,
         Historical,
-        Animation
+        Animation,
+        Documentary,
+        Horror,
+        Cartoon
     }
 }

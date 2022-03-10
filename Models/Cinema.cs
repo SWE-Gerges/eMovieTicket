@@ -5,10 +5,10 @@ namespace eMovieTicket.Models
     public class Cinema
     {
         [Key]
-        public int Id { get; set; }
+        public int CinemaId { get; set; }
         public string LogoURL { get; set; }
         public string Name { get; set; }
-        public string Discrption { get; set; }
+        public string Description { get; set; }
 
         //Relationships
         
